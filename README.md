@@ -8,5 +8,8 @@ In this project, I aim to perform a comprehensive exploratory data analysis (EDA
 ## Dataset
 The dataset consists of information on 10,000 customers, including their age, salary, marital status, credit card limit, credit card category, etc. Only 16.07% of customers have churned, thus the dataset has a class imbalance. In order to increase predictive and classification efficacy of the models, techiques such as oversampling the training set was applied.
 
+##Aim 
+The main objective in this business scenario is to recognize clients who are at risk of churning. In the event that we inaccurately forecast a non-churning client as churned, it will not have significant negative impacts on our business. However, if we incorrectly predict a churning customer as non-churning, it could have detrimental consequences. Therefore, in order to prevent such situations, it is crucial to ensure a high recall score (true positives divided by true positives plus false negatives).
+
 ## Notebook
 Check out the notebook for this project [here](https://github.com/kornelski/pngquant)
