@@ -12,4 +12,4 @@ The dataset consists of information on 10,000 customers, including their age, sa
 The main objective in this business scenario is to recognize clients who are at risk of churning. In the event that we inaccurately forecast a non-churning client as churned, it will not have significant negative impacts on our business. However, if we incorrectly predict a churning customer as non-churning, it could have detrimental consequences. Therefore, in order to prevent such situations, it is crucial to ensure a high recall score (true positives divided by true positives plus false negatives).
 
 ## Notebook
-Check out the notebook for this project [here](https://github.com/kornelski/pngquant)
+Check out the notebook for this project [here]([https://github.com/kornelski/pngquant](https://github.com/yurijeon-g/Credit-Card-Customer-Churn-Prediction/blob/main/customer-churn-prediction.ipynb))
